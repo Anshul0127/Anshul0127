@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there 👋, I'm Anshul<br><br><p align="left"><br>  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7F52FF&lines=Founder+%40+YuktiX;Android+Developer;Full+Stack+Builder;Building+real+world+products" /><br></p><br><br>🎓 Second Year @ Vishwakarma University<br><br>---<br><br>## 👨‍💻 About<br><br>* Founder @ YuktiX<br>* Creator of **Huddle** (Play Store)<br>* Creator of **Vendora** (Cafeteria System)<br>* Building AI + mobile products<br>* Learning: Kotlin, React, Flask<br><br>---<br><br>## 🚀 Projects<br><br>* **Huddle** → Social app (Play Store)<br>* **Vendora** → Smart cafeteria system<br>* **Student Docs Locker** → Secure document vault<br>* **AI Healthcare Platform** → Symptom + report AI<br><br>---<br><br>## 🛠 Stack<br><br>![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)<br>![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)<br>![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask)<br><br>---<br><br>## 📊 Stats<br><br>![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)<br><br>---<br><br>## 🌐 Connect<br><br>* LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://linkedin.com/in/YOUR_LINK)<br>* Email: [your.email@gmail.com](mailto:your.email@gmail.com)<br><br>---<br><br>## ⚡ Vision<br><br>> Building products that solve real problems and scale.<br>> From campus tools to AI platforms — just getting started. 🚀<br>
 
-<!--
-**Anshul0127/Anshul0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imansshul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anshul Harish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imansshul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulharish17@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Anshul0127&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
