@@ -1,15 +1,60 @@
-# 💫 About Me:
-# Hi there 👋, I'm Anshul<br><br><p align="left"><br>  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7F52FF&lines=Founder+%40+YuktiX;Android+Developer;Full+Stack+Builder;Building+real+world+products" /><br></p><br><br>🎓 Second Year @ Vishwakarma University<br><br>---<br><br>## 👨‍💻 About<br><br> Founder @ YuktiX<br> Creator of Huddle (Play Store)<br> Creator of Vendora <br> Building AI + mobile products<br> Learning: Kotlin, React, Flask<br><br>---<br><br> 🚀 Projects<br><br>Huddle → Social app (Play Store)<br>Vendora → Smart cafeteria system<br>Student Docs Locker → Secure document vault<br> 🛠 Stack<br><br>![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)<br>![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)<br>![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask)<br><br>---<br><br>## 🌐 Connect<br><br>* LinkedIn: [[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/anshul-harish/)](https://linkedin.com/in/YOUR_LINK)<br>* Email: [anshulharish17@gmail.com](mailto:your.email@gmail.com)<br><br>---<br><br>## ⚡ Vision<br><br>> Building products that solve real problems and scale.<br>> From campus tools to AI platforms — just getting started. 🚀<br>
+<h1 align="center">Hi, I'm Anshul</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7F52FF&center=true&vCenter=true&width=520&lines=Founder+%40+YuktiX;Full-Stack+%26+Flutter+Developer;Building+AI-powered+products" alt="Typing intro" />
+</p>
 
- 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imansshul)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imansshul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulharish17@gmail.com) 
-
- 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
+<p align="center">
+  B.Tech CSE (AI & Data Science) @ Vishwakarma University, Pune · Founder of <b>YuktiX</b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anshul0127&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+- Founder & product architect at **YuktiX**, building real products end to end
+- Ship Flutter + Firebase apps to the Play Store
+- Researching **concept-drift adaptive forecasting** for real-world time series
+- Co-inventor on an Indian patent application for **NeuroSense**, an EEG-to-speech assistive system
+- Open to **AI / full-stack internships**
+
+---
+
+### Featured Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Vendora** | Campus canteen pre-ordering app, built under YuktiX | Flutter · Firebase |
+| **Huddle** | Group chat and voice-calling app, live on Play Store closed testing | Flutter · Firebase · Agora |
+| **Apex Fit** | White-label fitness SaaS for gyms and solo users | Flutter · Firebase |
+| **NeuroSense** | EEG-to-speech assistive system for non-verbal users (patent filed) | Python · FastAPI · LLMs · Raspberry Pi |
+| **Sova AI** | Voice-controlled personal assistant with PC control | FastAPI · React · Flutter |
+| [**Drift-Adaptive Forecasting**](https://github.com/Anshul0127/drift-adaptive-forecasting) | Research on real-time adaptation to concept drift in demand forecasting | Python · PyTorch |
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### Connect
+
+<p>
+  <a href="https://linkedin.com/in/anshul-harish/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anshulharish17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Building products that solve real problems — from campus tools to AI platforms.</i></p>
